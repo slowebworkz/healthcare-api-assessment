@@ -1,0 +1,3 @@
+
+echo "🧹 Running Biome check before commit..."
+npx biome check .
